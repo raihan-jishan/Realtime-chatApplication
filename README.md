@@ -1,4 +1,11 @@
-# Realtime chat 
+# Realtime chat application 
+## `Technologys`
+### 1. React js, version: 18 ^, ..
+### 2. React router dom
+### 3. react-scroll-to-bottom: "^4.2.0",
+### 4. socket.io-client: "^4.5.3",
+#### `stylings `
+### 5. Custom css , react icons`|||||`
 <img src='https://raw.githubusercontent.com/raihan-jishan/Github-cover-photo/main/images/chating%20app.png' alt='photo' /> 
 # Getting Started with Create React App
 
