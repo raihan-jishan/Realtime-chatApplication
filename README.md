@@ -1,4 +1,4 @@
-#Realtime chat 
+# Realtime chat 
 <img src='https://raw.githubusercontent.com/raihan-jishan/Github-cover-photo/main/images/chating%20app.png' alt='photo' /> 
 # Getting Started with Create React App
 
